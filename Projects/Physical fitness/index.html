@@ -1,1 +1,47 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Physical Fitness Portal</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { margin: 0; font-family: 'Segoe UI', Arial, sans-serif; background: #f5f6fa; }
+    header { background: #2366A8; color: white; padding: 24px 0; text-align: center; }
+    main { max-width: 700px; margin: 40px auto; background: #fff; padding: 32px; border-radius: 8px; box-shadow: 0 2px 12px #ddd; }
+    h1 { margin-top: 0; }
+    .features { display: flex; flex-wrap: wrap; gap: 24px; margin-top: 24px; }
+    .feature { flex: 1; min-width: 220px; background: #eaf0fb; padding: 20px; border-radius: 6px; text-align: center; 
+feature span { font-size: 2em; display: block; margin-bottom: 10px; }
+    .login-btn { display: block; margin: 36px auto 0; padding: 12px 24px; background: #2366A8; color: white; border: none; border-radius: 6px; font-size: 1.1em; cursor: pointer; }
+    .login-btn:hover { background: #183A59; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Physical Fitness Portal</h1>
+    <p>Your journey to better health starts here!</p>
+  </header>
+  <main>
+    <h2>Features</h2>
+    <div class="features">
+      <div class="feature">
+        <span>📋</span>
+        Track Workouts
+      </div>
+      <div class="feature">
+        <span>🍏</span>
+        Log Nutrition
+      </div>
+      <div class="feature">
+        <span>📊</span>
+        Monitor Progress
+      </div>
+      <div class="feature">
+        <span>🎯</span>
+        Set Goals
+      </div>
+    </div>
+    <button class="login-btn" onclick="window.location.href='login.html'">Login</button>
+  </main>
+</body>
+</html>
