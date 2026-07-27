@@ -1,0 +1,67 @@
+[
+    {
+        "title": "king of the jungle",
+        "author": "king",
+        "quantity": 10
+    },
+    {
+        "title": "lionking",
+        "author": "bradley",
+        "quantity": 4
+    },
+    {
+        "title": "Harry Potter",
+        "author": "JK Rowling",
+        "quantity": 8
+    },
+    {
+        "title": "Harry Potter",
+        "author": "JK Rowling",
+        "quantity": 4
+    },
+    {
+        "title": "Wings of Fire",
+        "author": "A. P. J. Abdul Kalam",
+        "quantity": 4
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "quantity": 5
+    },
+    {
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert T. Kiyosaki",
+        "quantity": 5
+    },
+    {
+        "title": "Sapiens",
+        "author": "Yuval Noah Harari",
+        "quantity": 4
+    },
+    {
+        "title": "The Psychology of Money",
+        "author": "Morgan Housel",
+        "quantity": 3
+    },
+    {
+        "title": "Deep Work",
+        "author": "Cal Newport",
+        "quantity": 5
+    },
+    {
+        "title": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "quantity": 11
+    },
+    {
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "quantity": 10
+    },
+    {
+        "title": "Educated",
+        "author": "Tara Westover",
+        "quantity": 5
+    }
+]

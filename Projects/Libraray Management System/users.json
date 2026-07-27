@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Akash",
+        "borrowed_books": [
+            {
+                "title": "Think and Grow Rich",
+                "author": "Napoleon Hill"
+            }
+        ]
+    },
+    {
+        "name": "Akhil",
+        "borrowed_books": []
+    },
+    {
+        "name": "Krishna",
+        "borrowed_books": []
+    },
+    {
+        "name": "sai",
+        "borrowed_books": []
+    }
+]
